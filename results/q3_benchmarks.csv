@@ -1,0 +1,5 @@
+model,reasoning,retrieval,safety_refusal_rate_pct,throughput_tokens_per_sec,cost_per_1M_tokens_usd,budget_le_5usd,safety_ge_90pct
+HALCYON-70B,68.5,79.8,93.7,38,8.30,FAIL,PASS
+ORION-13B,64.8,76.4,91.2,142,3.90,PASS,PASS
+CIRRUS-32B,61.9,66.3,88.4,96,2.10,PASS,FAIL
+VELA-8B,57.2,70.1,84.6,210,0.80,PASS,FAIL
